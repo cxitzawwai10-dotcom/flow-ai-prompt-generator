@@ -1,0 +1,6 @@
+{
+  "name": "Flow AI Animation Prompt Generator",
+  "description": "Generate professional consistent character prompts, reference image prompts, 4-shot storyboards, and motion prompts for Flow AI animation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
